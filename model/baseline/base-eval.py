@@ -46,5 +46,7 @@ if __name__ == "__main__":
 #de-en-pred = TER 109.11; METEOR: 0.02; BLEU: 0.8775030611323054
 #en-nl-pred = TER 104.86; METEOR: 0.03; BLEU: 0.876038895010554
 # add comet for sure!
-# use llama (ask permission on huggingface)
+# use llama (8B) (ask permission on huggingface)
+# phi-3 maybe
+# 5 models (standard)
 # look up huggingface commandline interface
