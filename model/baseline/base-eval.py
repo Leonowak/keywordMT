@@ -50,3 +50,4 @@ if __name__ == "__main__":
 # phi-3 maybe
 # 5 models (standard)
 # look up huggingface commandline interface
+# 2 step translation? de-en-nl?
