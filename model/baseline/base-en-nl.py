@@ -35,3 +35,4 @@ dev_df.to_csv("en_nl_dev_predictions.csv", index=False)
 references = [dev_df["target"].tolist()]  # list of one reference corpus
 bleu = sacrebleu.corpus_bleu(translations, references)
 print("Dev BLEU score:", bleu.score)
+#Dev BLEU score: 0.876038895010554
