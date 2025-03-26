@@ -43,5 +43,5 @@ if __name__ == "__main__":
     main()
 
 #de-nl-pred = TER 78.82; METEOR: 0.29; BLEU: 13.87503500272944
-#de-en-pred = TER 109.11; METEOR: 0.02; BLEU:
+#de-en-pred = TER 109.11; METEOR: 0.02; BLEU: 0.8775030611323054
 #en-nl-pred = TER 104.86; METEOR: 0.03; BLEU:
