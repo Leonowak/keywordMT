@@ -41,3 +41,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+#de-nl-pred = TER 78.82; METEOR: 0.29; 
