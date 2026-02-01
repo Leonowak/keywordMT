@@ -1,7 +1,7 @@
 source,target,id,prediction
 100 millionen won,100 million won,0,100 million won
-akt nachrichten,announcement,1,news action
-aktuel,Actuarial,2,actual
+akt nachrichten,announcement,1,current news
+aktuel,Actuarial,2,actuel
 aktuelle nachrichten,Latest news,3,Latest news
 aktuelle nachrichten heute,Latest news today,4,Latest news today
 aktuelle nachrichten nrw,Latest news now,5,Latest news now
@@ -17,43 +17,43 @@ aspiegel se,aspiegel se,14,aspiegel se
 bericht schreiben,send a message,15,write a report
 bild de,picture of,16,picture de
 bild nachrichten,photo report,17,image news
-bild politik,political photography,18,Politics photography
-bild tv,picture tv,19,photo tv
-bildmobil,camera car,20,mobile phone
+bild politik,political photography,18,picture politics
+bild tv,picture tv,19,picture tv
+bildmobil,camera car,20,mobile photography
 casino hamburg,casino hamburg,21,hamburg casino
 claudia major kinder,claudia major,22,claudia major children
 cnn live stream,cnn live stream,23,cnn live stream
 confidence deutsch,confidence,24,German confidence
 d2,d2,25,d2
 d2 test,d2 test,26,d2 test
-danke bilder kostenlos,thank you pictures free,27,thank you images free
+danke bilder kostenlos,thank you pictures free,27,thank you pictures free
 das erste,first,28,the first
-das erste stream,first stream,29,the first stream
+das erste stream,first stream,29,first stream
 das james,james,30,the james
 deckenleuchte mit ventilator,ceiling light with fan,31,ceiling light with fan
-default deutsch,default deutsch,32,German default
+default deutsch,default deutsch,32,default German
 deit,deit,33,deit
-der,the,34,the
-der spiegelde,the mirroring,35,the reflective
+der,the,34,of
+der spiegelde,the mirroring,35,the mirror
 deutsche zeitung,German magazines,36,German newspapers
 deutschland live,Germany live,37,Germany live
 dew,dew,38,dew
-die welt zeitung,The World Time,39,the world clock
-dr dre vermögen,Dr dre wealth,40,dr dre wen
+die welt zeitung,The World Time,39,the world newspaper
+dr dre vermögen,Dr dre wealth,40,dr dre Wealth
 duckgo,duckgo,41,duckgo
 email telekom,email telekom,42,email telekom
 ereignisse,incidents,43,events
 faz net,faz net,44,faz net
-fernsehen aktuell,watch the news,45,current tv
+fernsehen aktuell,watch the news,45,watch current TV
 fernsehen kostenlos,watch TV free,46,free tv
-fernsehenheute,televised,47,TV Today
+fernsehenheute,televised,47,watch today
 focu,focu,48,focu
 focus,focus,49,focus
 focus magazin,focus magazine,50,focus magazine
 gif guten morgen,good morning,51,gif good morning
 giornale,official,52,giorna
-gmx startseite,gmx homepage,53,gmx home page
-googleder,googler,54,googled
+gmx startseite,gmx homepage,53,gmx home
+googleder,googler,54,Google leather
 googlenews,Google News,55,googlenews
 größter mensch aller zeiten,greatest man of all time,56,greatest person of all time
 gute nacht bilder gif,good night images gif,57,good night pictures gif
@@ -68,7 +68,7 @@ line app,mobile app,65,line app
 live tv eu,live tv eu,66,live tv eu
 lokale nachrichten,local newspapers,67,local news
 lokale nachrichten heute,local news today,68,local news today
-massa haus,massage house,69,massa home
+massa haus,massage house,69,massa house
 mews login,mews login,70,mews login
 midjourney alternative,midjourney alternative,71,midjourney alternative
 mietspiegel stuttgart,mietspiegel stuttgart,72,mietspiegel stuttgart
@@ -90,7 +90,7 @@ neue nachrichten heute,new news today,87,new news today
 neue welt,new world,88,new world
 neueste nachrichten des tages,latest news of the day,89,latest news of the day
 news de,news de,90,news de
-news politik,news politics,91,news politics
+news politik,news politics,91,news policy
 news österreich,news Austria,92,news from Austria
 news24,news24,93,news24
 nius de,nius,94,nius de
@@ -99,49 +99,49 @@ ntv live nachrichten aktuell,ntv live news,96,ntv live news
 ntvnews,NTV News,97,ntvnews
 nummer blockieren samsung,block number samsung,98,block number samsung
 online,online online,99,online
-premier inn frankfurt,premier inn frankfurt,100,primer in frankfurt
+premier inn frankfurt,premier inn frankfurt,100,premier inn frankfurt
 rbb heute,rbb,101,rbb today
 rnd news,nd news,102,rnd news
 rts live,rts live,103,rts live
 rtv programm,rtv program,104,rtv program
-schlaflabor berlin,schlaflabor berlin,105,sleep laboratory in Berlin
+schlaflabor berlin,schlaflabor berlin,105,sleep laboratory berlin
 schlagzeilen heute,headlines today,106,headlines today
 sex video kostenlos,free sex videos,107,sex video free
 solinger tageblatt,today's newspaper,108,solinger Tageblatt
 sonntag morgen bilder,sunday morning pictures,109,sunday morning pictures
-speigel,swivel,110,snake
+speigel,swivel,110,spigle
 spiegek,spiegek,111,spying
-spiegl,spiegl,112,spigl
+spiegl,spiegl,112,spiegl
 starpage,starpage,113,starpage
 stern de,stern de,114,Star de
 sub des tages heute,sub of the day today,115,sub of the day today
 swr live,swr live,116,swr live
 t online login,online login,117,t online login
-tagesschau nachrichten,daily news,118,Daily newspapers
-tagesspiegel online,daily mirror online,119,Tagesspiegel online
-tagessschau,daily review,120,Daily newspapers
-techno club münchen,techno club Munich,121,techno club coins
+tagesschau nachrichten,daily news,118,Daily news
+tagesspiegel online,daily mirror online,119,tagespiegel online
+tagessschau,daily review,120,Tagesschau
+techno club münchen,techno club Munich,121,techno club mouth
 telekom email login,telekom email login,122,telekom email login
 the nun 3,the nun 3,123,the now 3
 tv s,TV series,124,tv s
-tvn tennis,tennis,125,tennis
-tvtv,TV TV,126,TV
+tvn tennis,tennis,125,tvn tennis
+tvtv,TV TV,126,tvtv
 tvv 2024,2024 TV series,127,2024 TV
 ufa düsseldorf,ufa düsseldorf,128,ufa düsseldorf
 video x,x video,129,video x
 vodafone mitarbeiter rabatt,vodafone employee discount,130,vodafone employee discount
 weihnachtsmarkt wolfsburg,wolfsburg christmas market,131,christmas market wolfsburg
-welr,Welsh language,132,Welsh
+welr,Welsh language,132,wilt
 welt stream,world stream,133,world stream
-weltonline,worldonline,134,world online
+weltonline,worldonline,134,worldonline
 wetter msn,weather msn,135,weather msn
 wetter seelze,weather satellite,136,weather seal
 wie viele kontinente gibt es auf der welt,how many continents are there in the world,137,how many continents are there in the world
 wo gibt es,where is it,138,where is there
-wordle today deutsch,wordle today,139,wordle today
+wordle today deutsch,wordle today,139,German wordle
 wss,ss,140,wss
 youtube nachrichten,archive youtube,141,youtube news
 zeitung artikel,newspaper article,142,newspaper article
 zeitungen,Timetables,143,newspapers
 ää,aa,144,ää
-österreich zeitung,Austrian newspapers,145,Austria schedules
+österreich zeitung,Austrian newspapers,145,Austrian newspapers
