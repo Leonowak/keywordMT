@@ -4,7 +4,7 @@
 Code archive for Leonard Nowaks Master’s thesis on keyword-aware machine translation.
 
 This repository contains the experimental code used during the thesis work.  
-It is **not intended to be a polished library or plug-and-play system**, but rather a reproducible reference for the conducted experiments.
+It is **not intended to be a polished library**, but rather a reproducible reference for the conducted experiments.
 
 ## Overview
 
