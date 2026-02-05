@@ -16,7 +16,6 @@ This repository serves primarily as:
 
 ### Notes
 - Configuration repositories for all trained model configurations are **not included** due to size constraints and are available upon request.
-- Paths and parameters assume a research environment, not a production setup.
 
 ### Install dependencies via:
 
