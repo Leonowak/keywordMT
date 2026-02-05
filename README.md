@@ -15,7 +15,7 @@ This repository serves primarily as:
 - a **reference implementation** for experiments discussed in the thesis
 
 ### Notes
-- Configuration files are **not included** due to size constraints and are available upon request.
+- Configuration repositories for all trained model configurations are **not included** due to size constraints and are available upon request.
 - Paths and parameters assume a research environment, not a production setup.
 
 ### Install dependencies via:
