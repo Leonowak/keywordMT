@@ -1,4 +1,5 @@
-# keywordMT
+# Lost in Translation or Just Uncommon?
+# Behavioral Frequency Signals for Lexical Choice in Low Context Machine Translation
 
 Code archive for Leonard Nowaks Master’s thesis on keyword-aware machine translation.
 
