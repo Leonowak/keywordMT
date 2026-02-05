@@ -76,9 +76,9 @@ def main():
 
 
     ap.add_argument("--src_lang", type=str, default=None,
-                    help="Source language code (mBART: de_DE, M2M100: de, ignored for helsinki)")
+                    help="Source language code (mBART: de_DE, M2M100: de,)")
     ap.add_argument("--tgt_lang", type=str, default=None,
-                    help="Target language code (mBART: en_XX, M2M100: en, ignored for helsinki)")
+                    help="Target language code (mBART: en_XX, M2M100: en,)")
 
     ap.add_argument("--weight_decay", type=float, default=0.01)
     ap.add_argument("--warmup_ratio", type=float, default=0.03)
