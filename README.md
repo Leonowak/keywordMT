@@ -16,3 +16,8 @@ This repository serves primarily as:
 ### Notes
 - Configuration files are **not included** due to size constraints and are available upon request.
 - Paths and parameters assume a research environment, not a production setup.
+
+### Install dependencies via:
+
+```bash
+pip install -r requirements.txt
